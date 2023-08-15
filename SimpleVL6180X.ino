@@ -1,6 +1,6 @@
 // libraries
 #include <Wire.h>
-#include "Adafruit_VL6180X.h"
+#include <Adafruit_VL6180X.h>
 
 // declaring the sensor
 Adafruit_VL6180X tof = Adafruit_VL6180X();
