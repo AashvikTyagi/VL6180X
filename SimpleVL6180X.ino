@@ -1,3 +1,5 @@
+// code for just one sensor. short. sweet.
+
 // libraries
 #include <Wire.h>
 #include <Adafruit_VL6180X.h>
