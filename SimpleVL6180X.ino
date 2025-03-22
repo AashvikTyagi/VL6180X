@@ -1,4 +1,4 @@
-// code for just one sensor. short. sweet.
+// for one sensor
 
 // libraries
 #include <Wire.h>
